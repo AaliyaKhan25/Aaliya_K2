@@ -1,0 +1,5 @@
+# one plain-English test case per line
+Log in as a customer and verify the dashboard is shown
+Log in as an admin and verify the admin dashboard is shown
+Open the demo page and verify that both a front-end and a back-end demo link are offered
+Try to log in as a customer with a wrong password and verify an error message is shown

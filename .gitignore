@@ -1,0 +1,16 @@
+# secrets - never commit
+.env
+*.key
+
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# run output
+results/
+
+# IDE
+.vscode/
+.idea/
